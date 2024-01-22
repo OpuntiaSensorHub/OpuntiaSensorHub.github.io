@@ -6,7 +6,7 @@ Welcome to Opuntia Sensor Hub, an organization dedicated to integrating various 
 
 ## Our Sensors
 
-### [Adafruit SHT31 Sensor](https://github.com/OpuntiaSensorHub/Adafruit_SHT31_Sensor)
+### [Adafruit SHT31 Sensor](https://github.com/OpuntiaSensorHub/Adafruit_SHT31)
 
 **Monitoring Soil Temperature and Humidity**
 
@@ -14,7 +14,7 @@ Welcome to Opuntia Sensor Hub, an organization dedicated to integrating various 
 - ESP32 compatibility for IoT applications.
 - Simple test code available for easy setup.
 
-### [SparkFun EN160 Sensor](https://github.com/OpuntiaSensorHub/SparkFun_EN160_Sensor)
+### [SparkFun EN160 Sensor](https://github.com/OpuntiaSensorHub/SparkFun_EN160)
 
 **Measuring Air Quality**
 
@@ -22,7 +22,7 @@ Welcome to Opuntia Sensor Hub, an organization dedicated to integrating various 
 - Suitable for environmental monitoring and air purification systems.
 - Test code provided for seamless integration with ESP32.
 
-### [SparkFun BME280 Sensor](https://github.com/OpuntiaSensorHub/SparkFun_BME280_Sensor)
+### [SparkFun BME280 Sensor](https://github.com/OpuntiaSensorHub/SparkFun_BME280)
 
 **Humidity and Atmospheric Pressure Sensing**
 
